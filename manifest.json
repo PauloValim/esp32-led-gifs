@@ -1,0 +1,261 @@
+{
+  "version": 1,
+  "base_url": "https://<seu-usuario>.github.io/esp32-led-gifs/gifs/",
+  "files": [
+    {
+      "name": "17aP.gif",
+      "bytes": 61571,
+      "sha1": "33a21b8e9d63b662b8ae023bd7c52e957446d61a"
+    },
+    {
+      "name": "4cfoto.gif",
+      "bytes": 3180,
+      "sha1": "a17cdc66f60a24588cdcfba20b85b6cbb96e2a66"
+    },
+    {
+      "name": "4dgB.gif",
+      "bytes": 8459,
+      "sha1": "fb757440126ec7ed729c96821e0ab5396f75e20a"
+    },
+    {
+      "name": "5175.gif",
+      "bytes": 22017,
+      "sha1": "f4dd8ae0b868a391ec07a1c191be9f4637b6cf04"
+    },
+    {
+      "name": "5Wu4.gif",
+      "bytes": 67308,
+      "sha1": "8a1a356e8c5219f287812c2ef8e99669f4d9e73e"
+    },
+    {
+      "name": "7R72.gif",
+      "bytes": 13865,
+      "sha1": "01d4f6651e2c248ac80be82f3d24f1f1000f862e"
+    },
+    {
+      "name": "8Cfp.gif",
+      "bytes": 32950,
+      "sha1": "a19290578dbd4216d8b26a2882ae33640ca30ef0"
+    },
+    {
+      "name": "AVZ.gif",
+      "bytes": 103399,
+      "sha1": "941571c77343c246f638c625617f4923628c1121"
+    },
+    {
+      "name": "BOW4.gif",
+      "bytes": 29934,
+      "sha1": "dedcfb775c9eafd03aac067512e64862f2a18d2d"
+    },
+    {
+      "name": "Bart.gif",
+      "bytes": 13316,
+      "sha1": "899a7382559ebc085d52449b06ee15cae963df2c"
+    },
+    {
+      "name": "Butthead.gif",
+      "bytes": 14214,
+      "sha1": "c26c0aff6016c7e68401e6314710c55b22621e27"
+    },
+    {
+      "name": "Butthead2.gif",
+      "bytes": 4392,
+      "sha1": "c105e0b1166e49dae9a954a6c868e7f41710680c"
+    },
+    {
+      "name": "Golden.gif",
+      "bytes": 122463,
+      "sha1": "7a58bbe6f2c3933e81c843d88fd05783af951274"
+    },
+    {
+      "name": "Kn0O.gif",
+      "bytes": 35184,
+      "sha1": "bceda0e707617f9c5e86298100f5f985103fee07"
+    },
+    {
+      "name": "KnUp.gif",
+      "bytes": 25265,
+      "sha1": "e2d56b50ec44ec3f172174fa8de7684bf7552fa7"
+    },
+    {
+      "name": "MTU9.gif",
+      "bytes": 21747,
+      "sha1": "cd6bbe85243caf1388ad6ff7291d93c72f4712f8"
+    },
+    {
+      "name": "Mario10.gif",
+      "bytes": 3629,
+      "sha1": "20137ab709d4b73f79371b988e4aa74977d47dd9"
+    },
+    {
+      "name": "Mario11.gif",
+      "bytes": 102867,
+      "sha1": "70727fda07f1bcf81db04f5b2b03e45ff4c391b0"
+    },
+    {
+      "name": "Mario12.gif",
+      "bytes": 7119,
+      "sha1": "0e6bfde1050d6b34ae7b1b3f764196762b2784e4"
+    },
+    {
+      "name": "Mario16.gif",
+      "bytes": 57410,
+      "sha1": "49d99480ec7597921dddb1f41d679b354c5c52eb"
+    },
+    {
+      "name": "Mario3.gif",
+      "bytes": 40332,
+      "sha1": "32ca04d0de951b1cda4224d34daa1762984795c8"
+    },
+    {
+      "name": "Mario6.gif",
+      "bytes": 27800,
+      "sha1": "29d42d4ef3533ee360db88429002cf11623d0fb3"
+    },
+    {
+      "name": "Mario9.gif",
+      "bytes": 11813,
+      "sha1": "1e83cb16bc3705c8ab2d6af9888d5d304f2d1310"
+    },
+    {
+      "name": "Qh5e.gif",
+      "bytes": 79116,
+      "sha1": "c7b095e2179abe307c29d380231854419bb3e641"
+    },
+    {
+      "name": "Sonic2.gif",
+      "bytes": 34524,
+      "sha1": "89e9d6432c8d54d9c8f37dbb5713a9c9aad92c53"
+    },
+    {
+      "name": "Sonic3.gif",
+      "bytes": 2857,
+      "sha1": "71b7e9eb4cdbcbb5d7c955cce3cdf5af2ed64b0f"
+    },
+    {
+      "name": "YEHT.gif",
+      "bytes": 5822,
+      "sha1": "032fb456e349b5054e38d7fe4a73f86663b120cb"
+    },
+    {
+      "name": "Yg6J.gif",
+      "bytes": 36696,
+      "sha1": "936ad0a8efaab59d81651a18e245692333871f45"
+    },
+    {
+      "name": "ZJF5.gif",
+      "bytes": 42247,
+      "sha1": "36238d1006e221fb520871aa7ef631d8325acba8"
+    },
+    {
+      "name": "Zelda2.gif",
+      "bytes": 100199,
+      "sha1": "131e6ed2fbb9f04a0ac70dd5c3664b170a3c9734"
+    },
+    {
+      "name": "Zgtb.gif",
+      "bytes": 4319,
+      "sha1": "27d2c382ea76f42619984d8494c8eb5212b8f9fe"
+    },
+    {
+      "name": "aranha.gif",
+      "bytes": 18503,
+      "sha1": "591a0db0a348dd5e6ba404f5223fa31c6b229d8d"
+    },
+    {
+      "name": "bender.gif",
+      "bytes": 47717,
+      "sha1": "b0b551230e79792c4925486255c24a2032662782"
+    },
+    {
+      "name": "f1Z.gif",
+      "bytes": 11553,
+      "sha1": "ecfa22427a888d7716376425c2f66cb0f69205be"
+    },
+    {
+      "name": "graphics-pacman.gif",
+      "bytes": 3825,
+      "sha1": "3876a29ac8f7c1d7dc0cac69b6781b1dcdc0f514"
+    },
+    {
+      "name": "kart1.gif",
+      "bytes": 16494,
+      "sha1": "7246d917aa2065de83f2572ae4c749b1b89f5f1d"
+    },
+    {
+      "name": "kart4.gif",
+      "bytes": 23950,
+      "sha1": "93eb842deb440ce808662dd0300b7b55c50cba21"
+    },
+    {
+      "name": "kart5.gif",
+      "bytes": 25237,
+      "sha1": "a3401377fa7fda33af321133f691f0b21898a591"
+    },
+    {
+      "name": "kart6.gif",
+      "bytes": 32448,
+      "sha1": "ba6298320f70c7e23896eae1bd2ed699fa596672"
+    },
+    {
+      "name": "mario palmas.gif",
+      "bytes": 24320,
+      "sha1": "4bc3260b9f41f55d20b7ebe330fe207f00797b23"
+    },
+    {
+      "name": "michael jackson.gif",
+      "bytes": 19231,
+      "sha1": "968f401528ac7083d6afe8dee432d2ef18743f88"
+    },
+    {
+      "name": "pacmn.gif",
+      "bytes": 62756,
+      "sha1": "58ce0a65e66bdbe280c474c5e83ba86f2ef5a528"
+    },
+    {
+      "name": "pokemon.gif",
+      "bytes": 8726,
+      "sha1": "0375ea976d37f106b295d879d64293b670b790d8"
+    },
+    {
+      "name": "raiden_trade.gif",
+      "bytes": 209493,
+      "sha1": "c9984e99fa34abe58d05a54b716d07e8fcf92946"
+    },
+    {
+      "name": "sonic alta.gif",
+      "bytes": 18216,
+      "sha1": "13e50e94ccfb5d23fa87fa08d694cb1796a0cd53"
+    },
+    {
+      "name": "sonic.gif",
+      "bytes": 58212,
+      "sha1": "1c617de4016180ce269d6f5565c6c49124c72ab9"
+    },
+    {
+      "name": "space_invaders.gif",
+      "bytes": 124731,
+      "sha1": "8c4ebc98620e834675ac597e6cc1ee8be0e8ce42"
+    },
+    {
+      "name": "tartarugas.gif",
+      "bytes": 4522,
+      "sha1": "3d8b117bcdbfa30b921c2f08c97dba2d3f0fa2f8"
+    },
+    {
+      "name": "walk_mario.gif",
+      "bytes": 40014,
+      "sha1": "2504f6cbc505abb7bfc76d6ed2364738563b1f23"
+    },
+    {
+      "name": "zelda.gif",
+      "bytes": 42858,
+      "sha1": "fbfc015e9e326f44ee6e2a991f9417eff8f557a2"
+    },
+    {
+      "name": "zelda1.gif",
+      "bytes": 11919,
+      "sha1": "64849e6056409820b8304149116619e9779839fa"
+    }
+  ]
+}
