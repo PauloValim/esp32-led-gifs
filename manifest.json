@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "base_url": "https://<seu-usuario>.github.io/esp32-led-gifs/gifs/",
+  "base_url": "https://paulovalim.github.io/esp32-led-gifs/gifs/",
   "files": [
     {
       "name": "17aP.gif",
