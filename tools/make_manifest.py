@@ -4,7 +4,7 @@ import os, json, hashlib
 # Diretório base dos GIFs
 GIF_DIR = os.path.join(os.path.dirname(__file__), "..", "gifs")
 
-BASE_URL = "https://<seu-usuario>.github.io/esp32-led-gifs/gifs/"
+BASE_URL = "https://raw.githubusercontent.com/PauloValim/esp32-led-gifs/main/gifs/"
 
 manifest = {
     "version": 1,
