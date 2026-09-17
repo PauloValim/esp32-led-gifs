@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "base_url": "https://raw.githubusercontent.com/PauloValim/esp32-led-gifs/main/gifs/",
   "files": [
     {
@@ -198,12 +198,12 @@
       "sha1": "ba6298320f70c7e23896eae1bd2ed699fa596672"
     },
     {
-      "name": "mario palmas.gif",
+      "name": "mario_palmas.gif",
       "bytes": 24320,
       "sha1": "4bc3260b9f41f55d20b7ebe330fe207f00797b23"
     },
     {
-      "name": "michael jackson.gif",
+      "name": "michael_jackson.gif",
       "bytes": 19231,
       "sha1": "968f401528ac7083d6afe8dee432d2ef18743f88"
     },
@@ -223,14 +223,14 @@
       "sha1": "c9984e99fa34abe58d05a54b716d07e8fcf92946"
     },
     {
-      "name": "sonic alta.gif",
-      "bytes": 18216,
-      "sha1": "13e50e94ccfb5d23fa87fa08d694cb1796a0cd53"
-    },
-    {
       "name": "sonic.gif",
       "bytes": 58212,
       "sha1": "1c617de4016180ce269d6f5565c6c49124c72ab9"
+    },
+    {
+      "name": "sonic_alta.gif",
+      "bytes": 18216,
+      "sha1": "13e50e94ccfb5d23fa87fa08d694cb1796a0cd53"
     },
     {
       "name": "space_invaders.gif",
@@ -241,6 +241,11 @@
       "name": "tartarugas.gif",
       "bytes": 4522,
       "sha1": "3d8b117bcdbfa30b921c2f08c97dba2d3f0fa2f8"
+    },
+    {
+      "name": "ufo.gif",
+      "bytes": 75515,
+      "sha1": "0cf7ed5335e2d60d10a12784af0e6075f5bf88a8"
     },
     {
       "name": "walk_mario.gif",
