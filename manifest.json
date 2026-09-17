@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "base_url": "https://raw.githubusercontent.com/PauloValim/esp32-led-gifs/main/gifs/",
   "files": [
     {
@@ -169,8 +169,8 @@
     },
     {
       "name": "new_ufo.gif",
-      "bytes": 75515,
-      "sha1": "0cf7ed5335e2d60d10a12784af0e6075f5bf88a8"
+      "bytes": 689,
+      "sha1": "1864ad32bc25f42e9be3620c38aee1c8f65396d4"
     },
     {
       "name": "pacmn.gif",
