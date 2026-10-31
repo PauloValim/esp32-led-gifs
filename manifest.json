@@ -1,5 +1,5 @@
 {
-  "version": 8,
+  "version": 9,
   "base_url": "https://raw.githubusercontent.com/PauloValim/esp32-led-gifs/main/gifs/",
   "files": [
     {
@@ -236,6 +236,11 @@
       "name": "ufo.gif",
       "bytes": 75515,
       "sha1": "0cf7ed5335e2d60d10a12784af0e6075f5bf88a8"
+    },
+    {
+      "name": "vampiro.gif",
+      "bytes": 53960,
+      "sha1": "b16a1fcef7199154b2457080bf17cb91882d7aaa"
     },
     {
       "name": "walk_mario.gif",
