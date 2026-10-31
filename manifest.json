@@ -1,5 +1,5 @@
 {
-  "version": 6,
+  "version": 7,
   "base_url": "https://raw.githubusercontent.com/PauloValim/esp32-led-gifs/main/gifs/",
   "files": [
     {
@@ -36,6 +36,11 @@
       "name": "8Cfp.gif",
       "bytes": 32950,
       "sha1": "a19290578dbd4216d8b26a2882ae33640ca30ef0"
+    },
+    {
+      "name": "abobora.gif",
+      "bytes": 95953,
+      "sha1": "05388447096cf5f61becd5e2aac0dafd12a21230"
     },
     {
       "name": "aranha.gif",
@@ -163,6 +168,11 @@
       "sha1": "968f401528ac7083d6afe8dee432d2ef18743f88"
     },
     {
+      "name": "morcego.gif",
+      "bytes": 27491,
+      "sha1": "e027df256e3f6cc52f31743d1109b7a4edf07169"
+    },
+    {
       "name": "MTU9.gif",
       "bytes": 21747,
       "sha1": "cd6bbe85243caf1388ad6ff7291d93c72f4712f8"
@@ -226,6 +236,11 @@
       "name": "ufo.gif",
       "bytes": 75515,
       "sha1": "0cf7ed5335e2d60d10a12784af0e6075f5bf88a8"
+    },
+    {
+      "name": "vampiro.gif",
+      "bytes": 53960,
+      "sha1": "b16a1fcef7199154b2457080bf17cb91882d7aaa"
     },
     {
       "name": "walk_mario.gif",
